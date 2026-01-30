@@ -1,0 +1,10 @@
+# Visual Feedback Loop - Robotics Perception & Control
+# Python 3.10+
+
+# Vision stack
+ultralytics>=8.0.0          # YOLOv8 object detection
+opencv-python>=4.8.0        # Camera, image I/O, optional tracking
+mediapipe>=0.10.0           # Optional pose / hand tracking
+numpy>=1.24.0
+
+# Control / loop (no extra deps beyond stdlib + above)
