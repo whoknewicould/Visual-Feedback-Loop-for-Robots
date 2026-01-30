@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Feedback Loop for Robots
 
 A **real-time Visual Feedback Loop** where camera perception continuously influences robot actions, forming a closed-loop **perception–action** cycle. The robot (or simulated robot) perceives the environment via camera input, analyzes it in real time, and adjusts its actions based on visual feedback.
@@ -148,3 +149,6 @@ Center band and speeds are configurable in `control/controller.py` and via `run.
 ## License
 
 See repository license file.
+=======
+# Visual-Feedback-Loop-for-Robots
+>>>>>>> c92d07c0ea4b7267286bcec04eb2c4fe01863969
